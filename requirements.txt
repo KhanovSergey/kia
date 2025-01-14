@@ -1,3 +1,0 @@
-pip~=23.2.1
-pyserial~=3.5
-pynput~=1.7.7
